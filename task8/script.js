@@ -8,7 +8,6 @@ canvas.height = window.innerHeight;
 ctx.strokeStyle = 'hsl(237, 91%, 50%)';
 ctx.lineJoin = 'round';
 ctx.lineCap = 'round';
-//ctx.lineWidth = 125;
 
 let isDrawing = false;
 let lastX = 0;
